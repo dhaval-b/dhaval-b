@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhaval-b
-- 👀 I’m interested in ... 
+- 👀 I’m interested in ... Web Developement, Mobile Developement, AI/ML
 - 🌱 I’m currently learning ... Spring Boot, Angular, Flask
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ... (not sure)
 - 📫 How to reach me ...
 
 <!---
